@@ -1,5 +1,3 @@
-<head><meta name="google-site-verification" content="cerFJvPjTz14hywdpHOqt1D3H6B7-LQLqktNvTBzi-8" /></head>
-
 # benfl repos
 * * *
 
