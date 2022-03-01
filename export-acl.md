@@ -1,6 +1,6 @@
-layout: page
-title: "PowerShell export ACL"
-permalink: /export-acl/
+layout: page    
+title: "PowerShell export ACL"    
+permalink: /export-acl/    
 
 # EXPORT ACL TO EXCEL FILE 
 * * *
